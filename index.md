@@ -3,13 +3,13 @@
 
 A. Proyectos en los que he participado:
 
-1. [Link](https://radori.mx/)
-2. [Link](https://www.jrnbamexico.com/)
-3. [Link](https://hoffman-latam.com/)
-4. [Link](https://techzone.com.mx/)
-5. [Link](https://tutti.com.mx)
-6. [Link](https://ashlogistics.com.mx/)
-7. [Link](https://www.icon-mx.com/)
+1. [Radori](https://radori.mx/)
+2. [JR NBA México](https://www.jrnbamexico.com/)
+3. [Hoffman](https://hoffman-latam.com/)
+4. [TechZone](https://techzone.com.mx/)
+5. [Tutti](https://tutti.com.mx)
+6. [Ash Logistics](https://ashlogistics.com.mx/)
+7. [Icon Iluminación](https://www.icon-mx.com/)
 
 ### Actualmente me encuentro trabajando en proyectos para licencias de  XBOX, daewoo y sitios corporativos.
 
@@ -17,16 +17,16 @@ A. Proyectos en los que he participado:
 # Proyectos de diseño grafico
 
 # Catálogo 
-![Image](https://cdn.shopify.com/s/files/1/0428/3357/6102/files/catalogo22.png?v=1656599264)
+![Catálogo](https://cdn.shopify.com/s/files/1/0428/3357/6102/files/catalogo22.png?v=1656599264)
 
 # Ficha técnica de producto 
 
-[Link](https://cdn.shopify.com/s/files/1/0428/3357/6102/files/TZBE90.pdf?v=1656096954)
+[Ficha Técnica](https://cdn.shopify.com/s/files/1/0428/3357/6102/files/TZBE90.pdf?v=1656096954)
 
 # Campañas de marca
 
 ## Techzone Alive
-![Image](https://cdn.shopify.com/s/files/1/0428/3357/6102/files/Video_ConferenciaBANNER.jpg?v=1651685471) 
+![Banner Video Conf](https://cdn.shopify.com/s/files/1/0428/3357/6102/files/Video_ConferenciaBANNER.jpg?v=1651685471) 
 
 ### Mailing 
-![Image](https://cdn.shopify.com/s/files/1/0428/3357/6102/files/docking-1280.png?v=1643903353) 
+![Mailing](https://cdn.shopify.com/s/files/1/0428/3357/6102/files/docking-1280.png?v=1643903353) 
