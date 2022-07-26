@@ -26,5 +26,10 @@ A. Proyectos en los que he participado:
 ## Techzone Alive
 ![Banner Video Conf](https://cdn.shopify.com/s/files/1/0428/3357/6102/files/Video_ConferenciaBANNER.jpg?v=1651685471) 
 
-### Mailing 
+## Mailing 
 ![Mailing](https://cdn.shopify.com/s/files/1/0428/3357/6102/files/docking-1280.png?v=1643903353) 
+
+## Repositorios proyectos actuales
+
+[PHP + Gatsby](https://github.com/daveinwords/daewoo)
+[Web Stack](https://ginga.com.mx/supersale/)
