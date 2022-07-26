@@ -1,3 +1,35 @@
+## Portfolio
+
+
+A. Proyectos en los que he participado:
+
+[https://radori.mx/]
+[https://www.jrnbamexico.com/]
+[https://hoffman-latam.com/]
+[https://techzone.com.mx/]
+[https://tutti.com.mx]
+[https://ashlogistics.com.mx/]
+
+### Actualmente me encuentro trabajando en proyectos para xbox, daewoo y sitios corporativos.
+
+
+# Proyectos de diseño grafico
+
+# Catálogo 
+[https://cdn.shopify.com/s/files/1/0428/3357/6102/files/catalogo22.png?v=1656599264]
+
+# Ficha técnica de producto 
+
+[https://cdn.shopify.com/s/files/1/0428/3357/6102/files/TZBE90.pdf?v=1656096954]
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/daveinwords/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
