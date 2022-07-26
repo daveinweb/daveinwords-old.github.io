@@ -31,5 +31,5 @@ A. Proyectos en los que he participado:
 
 ## Repositorios proyectos actuales
 
--[PHP + Gatsby](https://github.com/daveinwords/daewoo)
--[Web Stack](https://ginga.com.mx/supersale/)
+1. [PHP + Gatsby](https://github.com/daveinwords/daewoo)
+2. [Web Stack](https://ginga.com.mx/supersale/)
