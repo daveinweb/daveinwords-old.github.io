@@ -1,15 +1,13 @@
-##  David Bureos -- Portfolio
-
+##  David Bureos -- Web Developer --
 
 A. Proyectos en los que he participado:
 
-1. [Radori](https://radori.mx/)
-2. [JR NBA México](https://www.jrnbamexico.com/)
-3. [Hoffman](https://hoffman-latam.com/)
-4. [TechZone](https://techzone.com.mx/)
-5. [Tutti](https://tutti.com.mx)
-6. [Ash Logistics](https://ashlogistics.com.mx/)
-7. [Icon Iluminación](https://www.icon-mx.com/)
+1. [JR NBA México](https://www.jrnbamexico.com/)
+2. [Hoffman](https://hoffman-latam.com/)
+3. [TechZone](https://techzone.com.mx/)
+4. [Tutti](https://tutti.com.mx)
+5. [Ash Logistics](https://ashlogistics.com.mx/)
+6. [Icon Iluminación](https://www.icon-mx.com/)
 
 ### Actualmente me encuentro trabajando en proyectos para licencias de  XBOX, daewoo y sitios corporativos.
 
