@@ -1,26 +1,34 @@
-## Portfolio
+##  David Bureos -- Portfolio
 
 
 A. Proyectos en los que he participado:
 
-[https://radori.mx/]
-[https://www.jrnbamexico.com/]
-[https://hoffman-latam.com/]
-[https://techzone.com.mx/]
-[https://tutti.com.mx]
-[https://ashlogistics.com.mx/]
+1. https://radori.mx/
+2. https://www.jrnbamexico.com/
+3. https://hoffman-latam.com/
+4. https://techzone.com.mx/
+5. https://tutti.com.mx]
+6. https://ashlogistics.com.mx/
+7. https://www.icon-mx.com/
 
-### Actualmente me encuentro trabajando en proyectos para xbox, daewoo y sitios corporativos.
+### Actualmente me encuentro trabajando en proyectos para licencias de  XBOX, daewoo y sitios corporativos.
 
 
 # Proyectos de diseño grafico
 
 # Catálogo 
-[https://cdn.shopify.com/s/files/1/0428/3357/6102/files/catalogo22.png?v=1656599264]
+1 .https://cdn.shopify.com/s/files/1/0428/3357/6102/files/catalogo22.png?v=1656599264
 
 # Ficha técnica de producto 
+1. https://cdn.shopify.com/s/files/1/0428/3357/6102/files/TZBE90.pdf?v=1656096954
 
-[https://cdn.shopify.com/s/files/1/0428/3357/6102/files/TZBE90.pdf?v=1656096954]
+# Campañas de marca
+
+## Techzone Alive
+1. https://cdn.shopify.com/s/files/1/0428/3357/6102/files/Video_ConferenciaBANNER.jpg?v=1651685471
+
+### Mailing 
+https://cdn.shopify.com/s/files/1/0428/3357/6102/files/docking-1280.png?v=1643903353
 
 
 
