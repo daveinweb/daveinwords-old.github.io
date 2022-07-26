@@ -5,7 +5,7 @@ A. Proyectos en los que he participado:
 1. [JR NBA México](https://www.jrnbamexico.com/)
 2. [Hoffman](https://hoffman-latam.com/)
 3. [TechZone](https://techzone.com.mx/)
-4. [Techzone 2022 beta] (https://6fyiu7ajr484sya1-42833576102.shopifypreview.com)
+4. [Techzone 2022 beta](https://6fyiu7ajr484sya1-42833576102.shopifypreview.com)
 5. [Tutti](https://tutti.com.mx)
 6. [Ash Logistics](https://ashlogistics.com.mx/)
 7. [Icon Iluminación](https://www.icon-mx.com/)
